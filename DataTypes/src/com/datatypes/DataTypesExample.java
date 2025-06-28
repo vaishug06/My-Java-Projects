@@ -48,7 +48,6 @@ public class DataTypesExample {
 		System.out.println("Double: "+dt.d);
 		System.out.println("Boolean: "+dt.bool);
 		System.out.println("char: "+dt.c);
-		System.out.println("char: "+dt.c);
 	}
 
 }
